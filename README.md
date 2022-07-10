@@ -1,13 +1,13 @@
 # Huffman Coding
 A Python compression and decompression program based on Huffman Coding.
 
-##Introduction
+## Introduction
 
 This Project is to design a compression and decompression program based on Huffman Coding.
 The idea of Huffman Coding is to minimize the weighted expected length of the code by means of 
 assigning shorter codes to frequently used characters and longer codes to seldom-used code.
 
-##Implementation Details
+## Implementation Details
 
 The Program can compress and decompress text file consisting of 128 ASCII characters.
 
